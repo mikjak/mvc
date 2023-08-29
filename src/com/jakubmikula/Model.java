@@ -1,7 +1,5 @@
 package com.jakubmikula;
 
-import java.util.List;
-
 public class Model {
     private String name;
     private int age;
